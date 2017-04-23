@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  blueblueblue
 //
-//  Created by yecheng.shao on 2017/4/22.
+//  Created by xiaoyin.li. on 2017/4/22.
 //  Copyright © 2017年 xiaoyin.li. All rights reserved.
 //
 
