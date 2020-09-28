@@ -1,5 +1,5 @@
 # BlueBlueBlue
-Code for the paper [...(i can not find it now..)]
+Building this app based on the paper [...(i can not find it now..)]
 
 iOS App connect with TI.sensor CC2650 Movement sensor
 
