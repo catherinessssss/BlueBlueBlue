@@ -3,7 +3,7 @@ Building this app based on the paper ------ Nelson Wai-Hung Tsang, Umair Mujtaba
 
 iOS App connect with TI.sensor CC2650 Movement sensor
 
-It can detect fall , sitting, bending, standing, lying gesture based on the Gyroscope & Accelerometer sensor.
+It can detect fall , sitting, bending, standing, lying postures based on the Gyroscope & Accelerometer sensor.
 
 ## Switch Bluetoon
  ![Switch](/image/switchBluetooth.PNG)
